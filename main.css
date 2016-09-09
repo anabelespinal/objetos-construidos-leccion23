@@ -1,0 +1,12 @@
+body {
+	text-align: center;
+	background-color: powderblue;
+	font-family: cursive;
+}
+button {
+	background-color: #F87855;
+	padding: 1% 1.5%;
+	border: transparent;
+	font-family: cursive;
+	margin-top: 1%;
+}
